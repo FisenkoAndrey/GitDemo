@@ -3,6 +3,7 @@ values = [1, 2, "rahul", 4, 5]
 # list of the data types that allows multiple values and can be different types
 
 print(values[0])   # 1
+print(values[1])   # 2
 print(values[2])   # 4
 print(values[-1])   # 5
 print(values[1:3])   # 2 and "rahul"
